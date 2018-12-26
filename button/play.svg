@@ -34,15 +34,15 @@
     <filter
        inkscape:collect="always"
        style="color-interpolation-filters:sRGB"
-       id="filter5782"
-       x="-0.09490227"
-       width="1.1898045"
-       y="-0.13542811"
-       height="1.2708562">
+       id="filter7254"
+       x="-0.10151519"
+       width="1.2030304"
+       y="-0.14486493"
+       height="1.2897299">
       <feGaussianBlur
          inkscape:collect="always"
-         stdDeviation="0.69752306"
-         id="feGaussianBlur5784" />
+         stdDeviation="0.7461274"
+         id="feGaussianBlur7256" />
     </filter>
   </defs>
   <sodipodi:namedview
@@ -53,8 +53,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="85.926415"
-     inkscape:cy="947.88599"
+     inkscape:cx="-141.16079"
+     inkscape:cy="974.12761"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -62,7 +62,8 @@
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     inkscape:lockguides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -79,17 +80,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <ellipse
+    <circle
        id="path10"
        cx="44.217873"
        cy="44.061817"
-       style="fill:#000000;stroke-width:0.32095259"
+       style="fill:#ff9955;stroke-width:0.31181446"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       rx="9.9351873"
-       ry="10.497859" />
+       r="9.921875" />
     <ellipse
-       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.2415304;filter:url(#filter5782)"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:0.2415304;filter:url(#filter7254)"
        id="path56"
        cx="44.317703"
        cy="43.324997"
@@ -97,7 +97,7 @@
        ry="6.1806049"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       transform="matrix(1.1800925,0,0,1.2469262,-7.9812856,-10.173054)" />
+       transform="matrix(0.9340562,0,0,1.2463954,2.8226471,-9.938261)" />
     <path
        sodipodi:type="star"
        style="fill:#ff6600;stroke-width:0.26458332;filter:url(#filter5662)"
@@ -116,6 +116,6 @@
        inkscape:transform-center-x="-1.6105974"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"
-       transform="matrix(1.0480215,0,0,0.94787168,-2.4936159,2.7943152)" />
+       transform="matrix(1.0480215,0,0,0.94787168,-2.4936159,2.9609437)" />
   </g>
 </svg>
